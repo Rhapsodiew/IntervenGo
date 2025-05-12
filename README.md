@@ -105,4 +105,4 @@ npm run start:prod
 Les contributions externes sont autorisées. Merci d’ouvrir une issue avant toute modification.
 
 ## Licence
-Ce projet est sous licence MIT. Consultez le fichier LICENSE pour plus d’informations.
+Ce projet est sous licence Apache. Consultez le fichier LICENSE pour plus d’informations.
